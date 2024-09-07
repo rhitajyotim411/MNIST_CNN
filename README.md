@@ -7,7 +7,7 @@ This repository provides a tutorial for building a custom Convolutional Neural N
 The MNIST dataset consists of grayscale images of handwritten digits (0-9). The goal of this project is to classify these digits using a custom CNN.
 
 ### Key Features
-- **Custom CNN**: The network is built from scratch, using `keras Sequential class` focusing on the fundamentals of CNN architecture.
+- **Custom CNN**: The network is built from scratch using `keras Sequential class` focusing on the fundamentals of CNN architecture.
 - **High Accuracy**: The model achieves a **99.19% accuracy** on the test set.
 - **Confusion Matrix**: A confusion matrix is plotted to visualize the model's classification performance across different digits.
 
